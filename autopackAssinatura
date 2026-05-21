@@ -1,43 +1,82 @@
-<table cellpadding="0" cellspacing="0" border="0" style="font-family: Arial, Helvetica, sans-serif; color: #111111;">
+<table cellpadding="0" cellspacing="0" border="0" width="700" style="width:700px; font-family: Arial, Helvetica, sans-serif; color:#111111; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
   <tr>
     <!-- LOGO -->
-    <td style="padding-right: 22px; border-right: 2px solid #005BAA; vertical-align: middle;">
+    <td width="250" style="width:250px; padding-right:22px; border-right:2px solid #005BAA; vertical-align:middle;">
       <img 
         src="https://raw.githubusercontent.com/fearaujo1/assetsAutopack/main/autopack-logobranco.png" 
         alt="Autopack - Soluções inovadoras para indústria" 
-        width="220" 
-        style="display: block; border: 0;"
+        width="220"
+        style="width:220px; max-width:220px; display:block; border:0; outline:none; text-decoration:none;"
       >
     </td>
 
     <!-- INFORMAÇÕES -->
-    <td style="padding-left: 22px; vertical-align: middle;">
-      <p style="margin: 0; font-size: 20px; font-weight: bold; color: #111111;">
+    <td width="428" style="width:428px; padding-left:22px; vertical-align:middle;">
+      <p style="margin:0; padding:0; font-size:20px; line-height:24px; font-weight:bold; color:#111111; white-space:nowrap;">
         Felipe Marconi Gomes de Araujo
       </p>
 
-      <p style="margin: 4px 0 14px 0; font-size: 15px; color: #005BAA;">
+      <p style="margin:4px 0 14px 0; padding:0; font-size:15px; line-height:18px; color:#005BAA;">
         Suporte TI
       </p>
 
-      <p style="margin: 0 0 6px 0; font-size: 14px; color: #111111;">
-        <strong style="color: #005BAA;">Telefone:</strong>
-        +55 (43) 99108-8566
-      </p>
+      <!-- TELEFONE -->
+      <table cellpadding="0" cellspacing="0" border="0" width="298" style="width:298px; border-collapse:collapse; margin-bottom:6px; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+        <tr>
+          <td width="22" style="width:22px; vertical-align:middle;">
+            <img 
+              src="https://raw.githubusercontent.com/fearaujo1/assetsAutopack/main/imgTelefone.png" 
+              alt="Telefone"
+              width="16"
+              height="16"
+              style="width:16px; height:16px; display:block; border:0; outline:none; text-decoration:none;"
+            >
+          </td>
+          <td style="padding-left:8px; font-size:14px; line-height:18px; color:#111111; vertical-align:middle; white-space:nowrap;">
+            +55 (43) 3156-1500 | +55 (43) 99108-8566 
+          </td>
+        </tr>
+      </table>
 
-      <p style="margin: 0 0 6px 0; font-size: 14px; color: #111111;">
-        <strong style="color: #005BAA;">E-mail:</strong>
-        <a href="mailto:suporte@autopack.com.br" style="color: #111111; text-decoration: none;">
-          suporte@autopack.com.br
-        </a>
-      </p>
+      <!-- E-MAIL -->
+      <table cellpadding="0" cellspacing="0" border="0" width="298" style="width:298px; border-collapse:collapse; margin-bottom:6px; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+        <tr>
+          <td width="22" style="width:22px; vertical-align:middle;">
+            <img 
+              src="https://raw.githubusercontent.com/fearaujo1/assetsAutopack/main/imgEmail.png" 
+              alt="E-mail"
+              width="16"
+              height="16"
+              style="width:16px; height:16px; display:block; border:0; outline:none; text-decoration:none;"
+            >
+          </td>
+          <td style="padding-left:8px; font-size:14px; line-height:18px; color:#111111; vertical-align:middle; white-space:nowrap;">
+            <a href="#" style="color:#111111; text-decoration:none;">
+              suporte@autopack.com.br
+            </a>
+          </td>
+        </tr>
+      </table>
 
-      <p style="margin: 0; font-size: 14px; color: #111111;">
-        <strong style="color: #005BAA;">Site:</strong>
-        <a href="https://www.autopack.com.br" style="color: #111111; text-decoration: none;">
-          www.autopack.com.br
-        </a>
-      </p>
+      <!-- SITE -->
+      <table cellpadding="0" cellspacing="0" border="0" width="298" style="width:298px; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+        <tr>
+          <td width="22" style="width:22px; vertical-align:middle;">
+            <img 
+              src="https://raw.githubusercontent.com/fearaujo1/assetsAutopack/main/imgSite.png" 
+              alt="Site"
+              width="16"
+              height="16"
+              style="width:16px; height:16px; display:block; border:0; outline:none; text-decoration:none;"
+            >
+          </td>
+          <td style="padding-left:8px; font-size:14px; line-height:18px; color:#111111; vertical-align:middle; white-space:nowrap;">
+            <a href="#" style="color:#111111; text-decoration:none;">
+              www.autopack.com.br
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
