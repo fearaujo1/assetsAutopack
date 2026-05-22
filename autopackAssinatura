@@ -33,7 +33,7 @@
             >
           </td>
           <td style="padding-left:8px; font-size:14px; line-height:18px; color:#111111; vertical-align:middle; white-space:nowrap;">
-            SEU NUMERO AQUI
+            SEU TELEFONE AQUI 
           </td>
         </tr>
       </table>
@@ -51,7 +51,7 @@
             >
           </td>
           <td style="padding-left:8px; font-size:14px; line-height:18px; color:#111111; vertical-align:middle; white-space:nowrap;">
-            <a href="mailto:SEU_EMAIL_AQUI" style="color:#111111; text-decoration:none;">
+            <a href="#" style="color:#111111; text-decoration:none;">
               SEU EMAIL AQUI
             </a>
           </td>
@@ -71,8 +71,8 @@
             >
           </td>
           <td style="padding-left:8px; font-size:14px; line-height:18px; color:#111111; vertical-align:middle; white-space:nowrap;">
-            <a href="https://SEU_SITE_AQUI" style="color:#111111; text-decoration:none;">
-              SEU SITE AQUI
+            <a href="#" style="color:#111111; text-decoration:none;">
+              https://www.autopack.com.br
             </a>
           </td>
         </tr>
@@ -91,32 +91,32 @@
                 <td width="170" style="width:170px; font-size:13px; line-height:16px; color:#111111; font-family:Arial, Helvetica, sans-serif; vertical-align:middle; white-space:nowrap;">
                   Distribuidor autorizado:
                 </td>
-  
+
                 <!-- SUNNYVALE -->
-                <td width="150" style="width:150px; padding-right:18px; vertical-align:middle;">
-                  <a href="https://www.sunnyvale.com.br/" style="text-decoration:none;">
+                <td width="145" style="width:145px; padding-right:18px; vertical-align:middle;">
+                  <a href="#" style="text-decoration:none;">
                     <img
-                      src="https://www.sunnyvale.com.br/wp-content/themes/sunnyvale/images/logo.svg"
+                      src="https://raw.githubusercontent.com/fearaujo1/assetsAutopack/main/sunnyvale-logo.png"
                       alt="Sunnyvale"
-                      width="130"
-                      style="width:130px; max-width:130px; display:block; border:0; outline:none; text-decoration:none;"
+                      width="125"
+                      style="width:125px; max-width:125px; display:block; border:0; outline:none; text-decoration:none;"
                     >
                   </a>
                 </td>
-  
+
                 <!-- ROBOPAC -->
-                <td width="150" style="width:150px; vertical-align:middle;">
-                  <a href="https://www.robopac.com.br/" style="text-decoration:none;">
+                <td width="145" style="width:145px; vertical-align:middle;">
+                  <a href="#" style="text-decoration:none;">
                     <img
-                      src="https://www.robopac.com.br/application/modules/comum/assets/img/logo2.png"
+                      src="https://raw.githubusercontent.com/fearaujo1/assetsAutopack/main/robopac-logo.png"
                       alt="Robopac"
-                      width="130"
-                      style="width:130px; max-width:130px; display:block; border:0; outline:none; text-decoration:none;"
+                      width="125"
+                      style="width:125px; max-width:125px; display:block; border:0; outline:none; text-decoration:none;"
                     >
                   </a>
                 </td>
-  
-                <td width="230" style="width:230px;">&nbsp;</td>
+
+                <td width="240" style="width:240px;">&nbsp;</td>
               </tr>
             </table>
           </td>
